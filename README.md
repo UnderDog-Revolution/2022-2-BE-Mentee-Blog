@@ -10,7 +10,8 @@
 ### 권장현 멘티 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=su5398)](https://velog.io/@su5398)
 
-### 김대원 멘티 
+### 김대연 멘티
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=kim946509)](https://velog.io/@kim946509)
 
 ### 박예원 멘티 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=wlseks)](https://velog.io/@wlseks)
